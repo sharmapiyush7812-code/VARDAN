@@ -1,0 +1,10 @@
+{
+  "USR-b313ba4e": {
+    "id": "USR-b313ba4e",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password_hash": "pbkdf2_sha256$600000$wzfzEZbElG3cAfldfBZtfs$PG7leY8jwIchp22V8Y22DxH3NqO3NBVqE6HHT+1DG4w=",
+    "phone": "9876543210",
+    "created_at": "2026-08-19T17:57:59.761980Z"
+  }
+}

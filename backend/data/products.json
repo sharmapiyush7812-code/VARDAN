@@ -1,0 +1,140 @@
+[
+  {
+    "id": "p01",
+    "name": "Vardan Track Pant / 01",
+    "description": "Heavy movement track pants with Vardan Fit culture. Built different.",
+    "price": 2499,
+    "old_price": null,
+    "category": ["track"],
+    "tag": "New",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": {
+      "S": 12,
+      "M": 25,
+      "L": 18,
+      "XL": 10
+    },
+    "images": {
+      "thumbnail": "/media/products/p01/thumb.webp",
+      "small": "/media/products/p01/small.webp",
+      "medium": "/media/products/p01/medium.webp",
+      "large": "/media/products/p01/large.webp"
+    },
+    "gallery": [
+      "/media/products/p01/1.webp",
+      "/media/products/p01/2.webp",
+      "/media/products/p01/3.webp"
+    ],
+    "active": true
+  },
+  {
+    "id": "p02",
+    "name": "V-Stack Track Pant / 02",
+    "description": "Layered design track pants. Limited edition drop.",
+    "price": 2699,
+    "old_price": null,
+    "category": ["track"],
+    "tag": "Limited",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": {
+      "S": 8,
+      "M": 15,
+      "L": 12,
+      "XL": 6
+    },
+    "images": {
+      "thumbnail": "/media/products/p02/thumb.webp",
+      "small": "/media/products/p02/small.webp",
+      "medium": "/media/products/p02/medium.webp",
+      "large": "/media/products/p02/large.webp"
+    },
+    "gallery": [
+      "/media/products/p02/1.webp",
+      "/media/products/p02/2.webp"
+    ],
+    "active": true
+  },
+  {
+    "id": "p03",
+    "name": "Vardan Utility / 03",
+    "description": "Multi-pocket utility wear. Drop 01 exclusive.",
+    "price": 2799,
+    "old_price": null,
+    "category": ["vardan"],
+    "tag": "Drop 01",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": {
+      "S": 10,
+      "M": 20,
+      "L": 16,
+      "XL": 9
+    },
+    "images": {
+      "thumbnail": "/media/products/p03/thumb.webp",
+      "small": "/media/products/p03/small.webp",
+      "medium": "/media/products/p03/medium.webp",
+      "large": "/media/products/p03/large.webp"
+    },
+    "gallery": [
+      "/media/products/p03/1.webp",
+      "/media/products/p03/2.webp",
+      "/media/products/p03/3.webp"
+    ],
+    "active": true
+  },
+  {
+    "id": "p04",
+    "name": "Vardan Core / 04",
+    "description": "The essential Vardan fit. Customer favorite.",
+    "price": 2299,
+    "old_price": null,
+    "category": ["track"],
+    "tag": "Bestseller",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": {
+      "S": 30,
+      "M": 45,
+      "L": 35,
+      "XL": 20
+    },
+    "images": {
+      "thumbnail": "/media/products/p04/thumb.webp",
+      "small": "/media/products/p04/small.webp",
+      "medium": "/media/products/p04/medium.webp",
+      "large": "/media/products/p04/large.webp"
+    },
+    "gallery": [
+      "/media/products/p04/1.webp",
+      "/media/products/p04/2.webp"
+    ],
+    "active": true
+  },
+  {
+    "id": "p05",
+    "name": "Vardan Cargo / 05",
+    "description": "Limited cargo pants with custom pockets.",
+    "price": 2899,
+    "old_price": 3299,
+    "category": ["track", "sale"],
+    "tag": "Sale",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": {
+      "S": 5,
+      "M": 8,
+      "L": 7,
+      "XL": 4
+    },
+    "images": {
+      "thumbnail": "/media/products/p05/thumb.webp",
+      "small": "/media/products/p05/small.webp",
+      "medium": "/media/products/p05/medium.webp",
+      "large": "/media/products/p05/large.webp"
+    },
+    "gallery": [
+      "/media/products/p05/1.webp",
+      "/media/products/p05/2.webp",
+      "/media/products/p05/3.webp"
+    ],
+    "active": true
+  }
+]
